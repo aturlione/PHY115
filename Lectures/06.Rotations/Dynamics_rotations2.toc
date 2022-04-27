@@ -1,0 +1,4 @@
+\beamer@sectionintoc {2}{Torque}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Torque as a vector}{13}{0}{1}
+\beamer@subsectionintoc {2}{2}{Torque and Angular Acceleration}{16}{0}{1}
+\beamer@subsectionintoc {2}{3}{Angular Momentum}{25}{0}{1}

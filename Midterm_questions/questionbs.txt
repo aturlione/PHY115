@@ -1,0 +1,84 @@
+1- A ball is dropped from rest from the top of a building of
+height h. At the same instant, a second ball is projected vertically
+upward from ground level, such that it has zero speed when it
+reaches the top of the building.
+
+a-When the two balls pass each other, the first ball has the greater speed.
+
+b-When the two balls pass each other, the second ball has the greater speed.
+
+c-When the two balls pass each other, they have the same speed.
+
+
+
+2-FIGURE
+
+3- An object is thrown straight up into the air and feels no air resistance.
+
+a-The acceleration at the maximum heigth is 0 and the velocity is different from 0.
+b-The velocity at the maximum height is 0.
+c-Both statements are false. 
+
+4-FIGURE
+
+
+5-If you toss a ball upward with a certain initial speed, it falls freely
+and reaches a maximum height h a time t after it leaves your
+hand. Which of the following statements is the correct one
+
+a- the new maximum heigth is 2h and the time to reach it is the halft.
+b- the new maximum heigth is 4h and the time to reach it is 2t.
+c- the time to reach the maximum heigth is t/2.
+
+5-FIGURE
+
+6- Which of the following statements is true (it can be more than one):
+
+a-An object with constant acceleration can reverse its direction of travel.
+
+b-An object with constant acceleration can reverse its direction of travel twice.
+
+c-If the acceleration of an object is not constant, the object can reverse its direction more than one time.
+
+d-If an object is slowing down its acceleration have to be neagtive.
+
+c- None of the statements is true.
+
+7-Take a look at the figure and select the right answer: FIGURE
+
+8- Which of the following statements is true (it can be more than one):
+
+a-An object can have a zero displacement and a nonzero average
+velocity. Anonzero velocity?
+
+b-An object can have a zero displacement and a nonzero velocity. 
+
+c- An object can have zero velocity and nonzero acceleration.
+
+
+9- Take a look to the figure and answer, which of the following statements is true (it can be more than one):
+
+a- The acceleration from A to B is constant.
+
+b-The velocity from A to B is constant.
+
+c- The Velocity at C is zero.
+
+d-The velocity at G is positive.
+
+
+10-  Which of the following statements is true?:
+
+a- Under constant acceleration the average velocity of a particle is half the sum of its initial and final velocities. 
+
+b- If the acceleration is not constant the average velocity of a particle is half the sum of its initial and final velocities.
+
+c- If the velocity of the motion is zero, the acceleration is also zero.
+
+d- All the statements are false.
+
+
+
+
+
+
